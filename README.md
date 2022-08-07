@@ -1,6 +1,12 @@
 # Stereo Vision 
-## Arguments 
-```
+## Overview 
+A. Feature extraction and matching
+B. Estimating Fundamental Matrix
+C. Estimating Essential Matrix
+D. Estimating Camera Poses
+E. Rectification
+F. Correspondence
+
 Requirements 3 folders curule, pendulum and octagon
 DirPath: base path where data files exist
 flag : flag to get the info about the folder
@@ -10,7 +16,7 @@ windowsize : window size for disparity
 flag is 3 for curule
 flag is 1 for pendulum
 flag is 2 for octagon
-```
+
 
 ## Output
 ```
