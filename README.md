@@ -1,7 +1,7 @@
 # Stereo Vision 
 ## Overview 
 A. Feature extraction and matching
-# ![1](https://github.com/advaitp/Depth-Estimation-using-Stereo-Camera/blob/main/images/depth.png)
+# ![1](https://github.com/advaitp/Depth-Estimation-using-Stereo-Camera/blob/main/images/feature.png)
 
 B. Estimating Fundamental Matrix
 
