@@ -18,6 +18,7 @@ F. Correspondence
 Disparity Maps 
 # ![4](https://github.com/advaitp/Depth-Estimation-using-Stereo-Camera/blob/main/images/disparity.png)
 
+Depth Maps
 # ![5](https://github.com/advaitp/Depth-Estimation-using-Stereo-Camera/blob/main/images/depth.png)
 
 Requirements 3 folders curule, pendulum and octagon
